@@ -1,5 +1,5 @@
-# HASH-TABLE-DSA
-## ##Hash-table-java-script
+# HASH TABLE DSA
+## ##Hash table java script
 
 |  1. |[ What-is Hash Table](#)
 
