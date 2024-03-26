@@ -10,3 +10,9 @@
 |  4. |[Advantage-of-hash-table](#)
 
 |  5. |[Hash-table-usage](#)
+
+
+
+|  1. |[ What-is Hash Table](#)
+
+!| 1 |[](#)
