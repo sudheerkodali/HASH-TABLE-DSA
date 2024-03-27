@@ -29,3 +29,9 @@
 # 1.1 Hash table
 
 ![what-is-hash-table](./whatishashtable/image2.png)
+
+
+|  2. |[How-is-hash-table-implemented](#)
+
+# 2. Hash table implemented
+
