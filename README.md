@@ -15,4 +15,12 @@
 
 |  1. |[ What-is Hash Table](#)
 
-!| 1 |[](#)
+# 1. Hash table
+
+<p> HASH TABLE and it usages familiar to Araays  </p> 
+
+![what-is-hash-table](./whatishashtable/image1.png)
+
+# 1.1 Hash table
+
+![what-is-hash-table](./whatishashtable/image2.png)
