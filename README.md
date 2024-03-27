@@ -33,3 +33,6 @@
 
 # 2. Hash table implemented
 
+![what-is-hash-table-implemented](./Howishashtableimplemented/image1.png)
+
+
