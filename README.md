@@ -58,5 +58,5 @@
 ![Types-of-HASH-tables](./Typesofhashtable/image1.png)
 
 
-# 3.1 Types of HASH tables
+# 3.2 Types of HASH tables
 ![Types-of-HASH-tables](./Typesofhashtable/image2.png)
