@@ -50,4 +50,9 @@
   
 ![what-is-hash-table-implemented](./Howishashtableimplemented/image1.png)
 
+|  3  |[Types-of-hash-table](#)   
 
+# 3. Types of HASH tables
+<p> There are two types of HASH tables, they are </p>
+
+![Types-of-HASH-tables](./)
