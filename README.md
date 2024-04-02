@@ -32,8 +32,8 @@
 |  2. |[How-is-hash-table-implemented](#)
 
 # 2. Hash table implemented
-<p> suppose if we assume HT[TOYOTA]= 20 HT[TESLA]= 40 </p>
-<P> NOW HASH size of the HASH[] =[]
+<p> suppose if we assume HT[TOYOTA]= 20 HT[TESLA]= 40 are the values </p>
+<p>  suppose, give avalue to HASH("TOTOTA") =>3 is the value , means SIZE of the array </p>
 <P> |0  | 1 |  2| 3 | 4  | 5 | 6 | 7 | 8 |  => is the size of the  HASH table and HASH("TOYOTA")=> 3, HASH("TESLA") => 5, are the size of the Hash  </P>
 
 <p> we declare values to 'HASH" by HT[TOTOTA]= 20  => | 0 | 1 | 2  | 3 | 4  | 5 | 6 | 7 | 8 | </p>
