@@ -52,7 +52,11 @@
 
 |  3  |[Types-of-hash-table](#)   
 
-# 3. Types of HASH tables
+# 3.1 Types of HASH tables
 <p> There are two types of HASH tables, they are </p>
 
-![Types-of-HASH-tables](./)
+![Types-of-HASH-tables](./image1.png)
+
+
+# 3.1 Types of HASH tables
+![Types-of-HASH-tables](./image2.png)
