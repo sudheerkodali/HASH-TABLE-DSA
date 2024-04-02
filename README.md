@@ -20,7 +20,7 @@
 
 # 1. Hash table
 
-<p> HASH TABLE and it usages familiar to Araays  </p> 
+<p> HASH TABLE and it usages familiar to Arrays  </p> 
 
 ![what-is-hash-table](./whatishashtable/image1.png)
 
