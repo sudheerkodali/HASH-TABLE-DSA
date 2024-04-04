@@ -52,14 +52,16 @@
 
 
 # 2.2  Hash table values and size
+<p> HASH table converts string into number </p>
+<p> we declare values to 'HASH" by HT[TOTOTA]= 20  => | 0 | 1 | 2  | 3 | 4  | 5 | 6 | 7 | 8 | </p>
+<P> NOW HASH("TOYOTA") =>3  value HT[TOYOTA]= 20      | - | - | 20 | - | -  | - | - | - | - | </P>
+<P> Now HASH("TESLA") =>5   value HT[ TESLA]= 40      | - | - |  - | - | -  | 40| - | - | - | </P>
 
-<p>  suppose if we assume HT[TOYOTA]= 20 HT[TESLA]= 40 are the values </p>
-<p>  suppose, give a value to HASH("TOTOTA") =>3 is the value , means SIZE of the array </p>
-<P> |0  | 1 |  2| 3 | 4  | 5 | 6 | 7 | 8 |  => is the size of the  HASH table and HASH("TOYOTA")=> 3, HASH("TESLA") => 5, are the size of the Hash  </P>
 
 ![what-is-hash-table-implemented](./Howishashtableimplemented/image2.png)
 
 # 2.3 
+
 ![what-is-hash-table-implemented](./Howishashtableimplemented/image3.png)
 
 # 2.4 
