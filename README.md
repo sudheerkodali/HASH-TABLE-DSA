@@ -54,8 +54,8 @@
 # 2.2  Hash table values and size
 <p> HASH table converts string into number </p>
 <p> we declare values to 'HASH" by HT[TOTOTA]= 20  => | 0 | 1 | 2  | 3 | 4  | 5 | 6 | 7 | 8 | </p>
-<P> NOW HASH("TOYOTA") =>3  value HT[TOYOTA]= 20      | - | - | 20 | - | -  | - | - | - | - | </P>
-<P> Now HASH("TESLA") =>5   value HT[ TESLA]= 40      | - | - |  - | - | -  | 40| - | - | - | </P>
+<P> NOW HASH("TOYOTA") =>3  value HT[TOYOTA]= 20   => | - | - | 20 | - | -  | - | - | - | - | </P>
+<P> Now HASH("TESLA") =>5   value HT[ TESLA]= 40   => | - | - |  - | - | -  | 40| - | - | - | </P>
 
 
 ![what-is-hash-table-implemented](./Howishashtableimplemented/image2.png)
